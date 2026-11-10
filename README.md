@@ -2,7 +2,7 @@
 
 Questo spazio raccoglie diverse risorse utili per la transizione attualmente in corso da ICD9CM a ICD10IM + CIPI, 
 portata avanti dal Progetto [NSIS-CLASS](https://www.salute.gov.it/new/it/tema/assistenza-ospedaliera-sdo/il-progetto-nsis-class/) del Ministero della Salute, che sta innovando i meccanismi di codifica della SDO. 
-Il progetto si basa sulla Classificazione ICD-10-IM (Classificazione Statistica Internazionale delle Malattie e dei Problemi Sanitari Correlati, modificazione clinica italiana) e sulla Classificazione CIPI (Classificazione Italiana delle Procedure e Interventi). 
+Il progetto si basa sulla Classificazione **ICD-10-IM** (Classificazione Statistica Internazionale delle Malattie e dei Problemi Sanitari Correlati, modificazione clinica italiana) e sulla Classificazione **CIPI** (Classificazione Italiana delle Procedure e Interventi). 
 
 Le risorse qui ospitate sono realizzate da [MITEL](https://mitel.dimi.uniud.it/),[Dipartimento di Scienze Matematiche, Informatiche e Fisiche](https://dmif.uniud.it/), Università degli Studi di Udine. 
 
